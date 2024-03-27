@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fgbcmk4doIRRhm+D6Lx7QJNoVACg9pwY/tNR6OsRgqUqEhMXfiLKt5OPg4k+j+ZV5Ckk8wp6OVvk+dpalyjA8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PCUSER\\source\\repos\\pract14\\pract14\\pract14.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PCUSER\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\8.0.0\\microsoft.codeanalysis.netanalyzers.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
